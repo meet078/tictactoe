@@ -1,0 +1,25 @@
+.privacy{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.privacy-content{
+    max-width: 1000px;
+}
+.privacy h1{
+    margin: 10px 0;
+}
+.privacy h2{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.privacy p{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.privacy ul{
+    margin-left: 30px;
+}
+.privacy ul li{
+    margin-top: 5px;
+}
